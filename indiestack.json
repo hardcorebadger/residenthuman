@@ -1,0 +1,29 @@
+{
+  "api_keys": {
+    "resend": "re_DxW8bZsG_LwufhXyEuctf17zBkDMFWSeU"
+  },
+  "firebase": {
+    "project_id": "indiestack-dev",
+    "app_config": {
+      "apiKey": "AIzaSyBJ9hWonjDhkw_7MeDWaxyPHtZk8PkVZkA",
+      "authDomain": "indiestack-dev.firebaseapp.com",
+      "projectId": "indiestack-dev",
+      "storageBucket": "indiestack-dev.appspot.com",
+      "messagingSenderId": "213569585896",
+      "appId": "1:213569585896:web:1b632480f82921841ebf5d"
+    },
+    "service_account_key": {
+      "type": "service_account",
+      "project_id": "indiestack-dev",
+      "private_key_id": "f49ff6f5d7a94c648b502663a4d18e189af0e980",
+      "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6lJJ+jdPcV/cU\nXYuHwCUSIm0upprqgyzGcGuwkaQxPM0NYdIXQc1JqDNJUqPoDGfm2NRTstI0ZdkZ\nBNIv5/4Z2f1MG43kdKAwTRXJaDxJmQZkfSSAMVAcGO8s0srqTZ4txev5CfsTT/Eu\nzckBl6A0KvjHt1TA4k6U9Fqi7QKhQMk8hRZI9d8sOzoOhq7lUMCqf5kMs4yKiha2\nbA5TGYRRooNZP+nMGCnBYDVz4HtbJD+ePdHsFL3aiQDPhDQl8x8QBta6A12InuoP\nYoLtkqTMOxSlYVD/E/ziSLjFjbGZgw/ip9ZbZpvDDcoEi2sIPImgqq8tgBBiu3NR\nBaseYioJAgMBAAECggEACSU88IXabYWky2th6l2nW4YTOLsLIyVaoZ/zUWB0LkMr\nEGW79u6fZcXAPM73kIliIuk8MB2W6uFWpMCtHlLGbGU4Yp2DpR/31aJDp/+LW/ar\nnuuY6U0xfm0U9Ssgbd9v2lHGJSsBcvMDUQ5edMzmOgRktSJl/b3iCPBYzH1mWHnH\nMD97HpFnlqwveqpFJdHF6nc8lYrAwgB6H1ehOSgsINHjQ7JpzvF1s+NWGfnv2Vx/\nv2OTjrEeBaZOD+rwyLUbi6EIPb6kyu69PI/HGMi1wH8vhMKJbCA/SeKsdzF07UN7\nj2NXq7remHRcXeFr9s/ZKJL/urroaXEeMaLmkzWvsQKBgQD+DU40PioZ16pPeuU/\nG8/KVDF8ADBFbxR4nbz0MrKgxHoZK/nKUYa/RGP7AKUeNzCgsB/WzDCeP0/63LOf\nfx6pnm1I4nYvZQQkRZJXnUrOznVLCbps8pxznOFT51edVCaL2DOO50FpJm9Au1ym\n+SGHPHIpRsaZu9RaOYxeeLE+2QKBgQC8AtKPwagqfjF0DpXOfmP8SPbqq+EpJIun\nBDFsPv3xISd92BG3GAwt9uaSqfoj2R+IREm3U0dF3fVgvVTVRRtDxFVq/p6eqvVm\nC2X8tXmH5ZI5x1GQ8nGqbqhI9OPHIbJRbUov6z3TkD2a/PRTBHi9Pr493I2FpWBR\ngNGhgp2msQKBgQC+9WdcE4H3zMjCV0Drr87/aUuMxmOCPV1o0EAQWe80spqIQyrN\n7XvYVuLD75ctYBSYI+q6vN6qhDJtAOmvMJDutBu3Fin5s/dqADVgz+VED6HQlm5f\np/j7Wedw9so/gto6cXdHqgHbtL0ZLfwVsduG2GODLSTot2uFqg4dkKDB+QKBgFRe\nK+DotS8EW+rJlL4KB5Ixp+Pc53hP9v8mqYr6pXfsOc2GBUUVXHnP3t4XurEVgMnk\nYvQKQeR/Wtpje8sMbNS3KOGPityGuQJmwQhq4zNxeHHHGLojoZAqggfjJMe6Pku9\n8Fmaha8Hfi2rr3QFgKzjl/konLVJZfSNCwUgGOCxAoGAEorxYrJpnDhR0d0pM4lC\n/Fe5Qbk1bUzyzrmOnIQ/Ycs3RDPcxVvlp5pZVTNmFbLqQiytfDyJVqyWbva3+qxW\nI9HcplsQOP7UUBrtxolSwH9AzSYh4vvAIepPnUQlrPRcoB3BruEiCr/JZDsWTeHK\n7AHbRjY7frijLX4wkhnQkF0=\n-----END PRIVATE KEY-----\n",
+      "client_email": "firebase-adminsdk-tuxfx@indiestack-dev.iam.gserviceaccount.com",
+      "client_id": "107269740118741258272",
+      "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+      "token_uri": "https://oauth2.googleapis.com/token",
+      "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+      "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-tuxfx%40indiestack-dev.iam.gserviceaccount.com",
+      "universe_domain": "googleapis.com"
+    }
+  }
+}
